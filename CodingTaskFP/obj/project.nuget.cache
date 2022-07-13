@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0F2Ff2jY/iKJzwGI3L11Kg9OVaQJ+HRafU6d2cHR6qBGWmXbHgIAIkbBWYnqJ3DdbtAidrYmDnAV/piW0itRoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\an_an\\Documents\\Ashley\\Programming-Projects\\Coding-tasks\\SimCorp\\1-readfile\\CodingTaskFP\\CodingTaskFP\\CodingTaskFP.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\an_an\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
